@@ -1,0 +1,14 @@
+# Binaires compilés
+/bin/
+/out/
+
+# Fichiers spécifiques à l'IDE
+/.classpath
+/.project
+/.settings/
+/target/
+
+/certs/  # Si les certificats ne doivent pas être publics
+
+# Autres
+*.log
